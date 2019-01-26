@@ -102,3 +102,4 @@ https://devs.pagseguro.uol.com.br/docs/pagamento-recorrente-endpoints-da-api
 https://devs.pagseguro.uol.com.br/docs/pagamento-recorrente-criacao-do-plano
 https://devs.pagseguro.uol.com.br/v1/reference#api-pagamento-recorrente-consultar-dados-de-planos
 http://download.uol.com.br/pagseguro/docs/pagseguro-assinatura-automatica.pdf#page=17&zoom=100,0,238
+https://github.com/renatosistemasvc/pagseguro-checkout-transparente-angular2-4/blob/master/dados.class.ts
