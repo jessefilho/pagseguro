@@ -97,6 +97,8 @@ jessefilhojfnf@gmail.com
 
 ---
 **Referencia:**
+
+http://download.uol.com.br/pagseguro/docs/pagamento-recorrente.pdf
 http://download.uol.com.br/pagseguro/docs/pagseguro-assinatura-automatica.pdf
 https://devs.pagseguro.uol.com.br/v2/docs/modelo-de-aplicacoes-criando-sua-aplicacao
 https://devs.pagseguro.uol.com.br/docs/pagamento-recorrente-endpoints-da-api
